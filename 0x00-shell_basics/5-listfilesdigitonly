@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -c -lt
+ls -la -c -lt
